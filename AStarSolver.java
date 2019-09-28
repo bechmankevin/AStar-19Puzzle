@@ -13,7 +13,7 @@ import java.util.HashMap;
 	 10 11 12 13 14 15
 	       16 17      
 	       18 19
- * The game is set up by switching the "0" (the empty tile) with any other tile,
+ * The game is set up by switching the "0" (the empty tile) with any other adjacent tile,
  * doing this repeatedly until the board is scrambled.
  * Once the board is scrambled, the player attempts to reverse the pattern.
  * 
